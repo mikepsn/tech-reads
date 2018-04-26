@@ -2,7 +2,7 @@
 - [Reinforcement Learning Course by Barto at UMass](http://www-anw.cs.umass.edu/~barto/courses/cs687/) 
 - [RL Course Schedule /w Links to Lecture Slides](http://www-anw.cs.umass.edu/~barto/courses/cs687/RL-spr06.Lectures.html)
 - [Eligibility Traces (Course Slides)](http://www-anw.cs.umass.edu/~barto/courses/cs687/Chapter%207.pdf) 
-- [Planning and Learning (Course Slides)w](http://www-anw.cs.umass.edu/~barto/courses/cs687/Chapter%209.pdf) 
+- [Planning and Learning (Course Slides)](http://www-anw.cs.umass.edu/~barto/courses/cs687/Chapter%209.pdf) 
 
 #### REINFORCE Algorithms
 - [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning (REINFORCE)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
