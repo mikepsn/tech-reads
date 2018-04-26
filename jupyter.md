@@ -18,3 +18,5 @@
         formatter.get_style_defs('.highlight'),
         highlight(code, PythonLexer(), formatter)))
     ```
+
+- [Checking the version of an ipython library from Terminal?](https://stackoverflow.com/questions/33623402/checking-the-version-of-an-ipython-library-from-terminal)
