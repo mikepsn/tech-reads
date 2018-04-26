@@ -3,6 +3,7 @@
 - [An Intro to Reinforcement Learning (with otters) -- Monica Dinculescu](https://meowni.ca/posts/rl-with-otters/)
 - [Learning approximate representations of partially observable systems (pdf)](https://meowni.ca/includes/mdinculescu_thesis.pdf)
 - [Q-Learning example on glitch](https://glitch.com/edit/#!/q-learning?path=README.md:1:0) 
+- [Episodes/Epochs in Deep RL](https://stats.stackexchange.com/questions/250943/what-is-the-difference-between-episode-and-epoch-in-deep-q-learning?rq=1)
 
 #### Reinforcement Learning Course (Barto)
 - [Reinforcement Learning Course by Barto at UMass](http://www-anw.cs.umass.edu/~barto/courses/cs687/) 
