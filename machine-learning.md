@@ -50,4 +50,5 @@
 #### GitHub
 - [Deep Learning Book Notation](https://github.com/goodfeli/dlbook_notation)
 
-
+#### Generative Models
+- [Learning to write programs that generate images](https://deepmind.com/blog/learning-to-generate-images/)
