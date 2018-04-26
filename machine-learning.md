@@ -1,3 +1,9 @@
+#### (Deep) Reinforcement Learning 
+- [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+- [An Intro to Reinforcement Learning (with otters) -- Monica Dinculescu](https://meowni.ca/posts/rl-with-otters/)
+- [Learning approximate representations of partially observable systems (pdf)](https://meowni.ca/includes/mdinculescu_thesis.pdf)
+- [Q-Learning example on glitch](https://glitch.com/edit/#!/q-learning?path=README.md:1:0) 
+
 #### Reinforcement Learning Course (Barto)
 - [Reinforcement Learning Course by Barto at UMass](http://www-anw.cs.umass.edu/~barto/courses/cs687/) 
 - [RL Course Schedule /w Links to Lecture Slides](http://www-anw.cs.umass.edu/~barto/courses/cs687/RL-spr06.Lectures.html)
