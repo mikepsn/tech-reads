@@ -9,6 +9,7 @@
 
 #### Game AI
 - [Institutions Active in Technical Games Research](http://www.kmjn.org/game-rankings/)
+- [Game AI Book (Yannakakis and Togelius](http://gameaibook.org/) 
 
 #### OpenAI
 - [OpenAI Roboschool](https://blog.openai.com/roboschool/)
