@@ -1,1 +1,2 @@
 - [Real Python Tutorials](https://realpython.com/tutorials/)
+- [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/)
