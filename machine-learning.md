@@ -37,7 +37,10 @@
 
 #### Deep Mind
 - [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+- [Human-level control through deep reinforcement learning (slides)](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/slides/model-based-RL-deepmind.pdf) 
 - [AlphaGo Zero: Learning from Scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/)
+- [DeepMind and Blizzard open StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/)
+
 
 #### Reddit
 - [MariFLow: Self-Driving Mario Kart w/ Recurrent Neural Network (Reddit)](https://www.reddit.com/r/artificial/comments/8e2tqz/mariflow_selfdriving_mario_kart_wrecurrent_neural/)
