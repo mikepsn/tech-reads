@@ -6,6 +6,7 @@
 - [Episodes/Epochs in Deep RL](https://stats.stackexchange.com/questions/250943/what-is-the-difference-between-episode-and-epoch-in-deep-q-learning?rq=1)
 - [Expressing Arbitrary Reward Functions as Potential-Based Advice (pdf)](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9893/9923)
 - [Potential Based Reward Shaping Tutorial](http://www-users.cs.york.ac.uk/~devlin/presentations/pbrs-tut.pdf)
+- [What is the difference between off-policy and on-policy learning?](https://stats.stackexchange.com/questions/184657/what-is-the-difference-between-off-policy-and-on-policy-learning)
 
 #### Reinforcement Learning Course (Barto)
 - [Reinforcement Learning Course by Barto at UMass](http://www-anw.cs.umass.edu/~barto/courses/cs687/) 
