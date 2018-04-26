@@ -1,1 +1,2 @@
 - [Top Journals for Computer Science and Electronics](http://www.guide2research.com/journals/)
+- [SCImago Journal and Country Rank](http://www.scimagojr.com/journalrank.php?category=1702)
