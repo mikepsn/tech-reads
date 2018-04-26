@@ -8,6 +8,7 @@
 - [Potential Based Reward Shaping Tutorial](http://www-users.cs.york.ac.uk/~devlin/presentations/pbrs-tut.pdf)
 - [What is the difference between off-policy and on-policy learning?](https://stats.stackexchange.com/questions/184657/what-is-the-difference-between-off-policy-and-on-policy-learning)
 - [RL 5: On-policy and off-policy algorithms](http://www.inf.ed.ac.uk/teaching/courses/rl/slides15/rl05.pdf)
+- [Hybrid Reward Architecture for Reinforcement Learning](https://arxiv.org/pdf/1706.04208.pdf) 
 
 # Inverse Reinforcement Learning (IRL)
 - [Inverse Reinforcement Learning (Part I)](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
