@@ -9,6 +9,9 @@
 - [What is the difference between off-policy and on-policy learning?](https://stats.stackexchange.com/questions/184657/what-is-the-difference-between-off-policy-and-on-policy-learning)
 - [RL 5: On-policy and off-policy algorithms](http://www.inf.ed.ac.uk/teaching/courses/rl/slides15/rl05.pdf)
 
+# Inverse Reinforcement Learning (IRL)
+- [Inverse Reinforcement Learning (Part I)](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
+
 #### Reinforcement Learning Course (Barto)
 - [Reinforcement Learning Course by Barto at UMass](http://www-anw.cs.umass.edu/~barto/courses/cs687/) 
 - [RL Course Schedule /w Links to Lecture Slides](http://www-anw.cs.umass.edu/~barto/courses/cs687/RL-spr06.Lectures.html)
@@ -17,6 +20,9 @@
 
 #### REINFORCE Algorithms
 - [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning (REINFORCE)](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
+
+#### Multi-Objective Reinforcemen Learning
+- [Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research](https://d4mucfpksywv.cloudfront.net/research-covers/ingredients-for-robotics-research/technical-report.pdf)
 
 #### Game AI
 - [Institutions Active in Technical Games Research](http://www.kmjn.org/game-rankings/)
@@ -37,3 +43,8 @@
 
 #### AlphaZero
 - [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
+
+#### GitHub
+- [Deep Learning Book Notation](https://github.com/goodfeli/dlbook_notation)
+
+
