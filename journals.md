@@ -1,0 +1,1 @@
+- [Top Journals for Computer Science and Electronics](http://www.guide2research.com/journals/)
