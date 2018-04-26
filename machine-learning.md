@@ -29,6 +29,7 @@
 #### Game AI
 - [Institutions Active in Technical Games Research](http://www.kmjn.org/game-rankings/)
 - [Game AI Book (Yannakakis and Togelius](http://gameaibook.org/) 
+- [Soccer and Machine Learning](https://www.uruit.com/blog/2018/02/16/soccer-and-machine-learning-tutorial/) 
 
 #### OpenAI
 - [OpenAI Roboschool](https://blog.openai.com/roboschool/)
