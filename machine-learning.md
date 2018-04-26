@@ -1,4 +1,5 @@
 #### (Deep) Reinforcement Learning 
+- [Write an AI to win at Pong from scratch with Reinforcement Learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 - [An Intro to Reinforcement Learning (with otters) -- Monica Dinculescu](https://meowni.ca/posts/rl-with-otters/)
 - [Learning approximate representations of partially observable systems (pdf)](https://meowni.ca/includes/mdinculescu_thesis.pdf)
