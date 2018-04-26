@@ -4,6 +4,8 @@
 - [Learning approximate representations of partially observable systems (pdf)](https://meowni.ca/includes/mdinculescu_thesis.pdf)
 - [Q-Learning example on glitch](https://glitch.com/edit/#!/q-learning?path=README.md:1:0) 
 - [Episodes/Epochs in Deep RL](https://stats.stackexchange.com/questions/250943/what-is-the-difference-between-episode-and-epoch-in-deep-q-learning?rq=1)
+- [Expressing Arbitrary Reward Functions as Potential-Based Advice (pdf)](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9893/9923)
+- [Potential Based Reward Shaping Tutorial](http://www-users.cs.york.ac.uk/~devlin/presentations/pbrs-tut.pdf)
 
 #### Reinforcement Learning Course (Barto)
 - [Reinforcement Learning Course by Barto at UMass](http://www-anw.cs.umass.edu/~barto/courses/cs687/) 
@@ -27,3 +29,6 @@
 #### Reddit
 - [MariFLow: Self-Driving Mario Kart w/ Recurrent Neural Network (Reddit)](https://www.reddit.com/r/artificial/comments/8e2tqz/mariflow_selfdriving_mario_kart_wrecurrent_neural/)
 - [MariFLow: Self-Driving Mario Kart w/ Recurrent Neural Network (YouTube)](https://www.youtube.com/watch?v=Ipi40cb_RsI&t=1)
+
+#### Castle Labs (Computational Stochastic Optimization and Learning @ Princeton - Warren B. Powell)
+- [Machine Learning](https://castlelab.princeton.edu/machine-learning/)
