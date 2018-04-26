@@ -37,6 +37,7 @@
 
 #### Deep Mind
 - [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+- [AlphaGo Zero: Learning from Scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 
 #### Reddit
 - [MariFLow: Self-Driving Mario Kart w/ Recurrent Neural Network (Reddit)](https://www.reddit.com/r/artificial/comments/8e2tqz/mariflow_selfdriving_mario_kart_wrecurrent_neural/)
