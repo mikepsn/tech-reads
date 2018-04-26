@@ -10,7 +10,7 @@
 - [RL 5: On-policy and off-policy algorithms](http://www.inf.ed.ac.uk/teaching/courses/rl/slides15/rl05.pdf)
 - [Hybrid Reward Architecture for Reinforcement Learning](https://arxiv.org/pdf/1706.04208.pdf) 
 
-# Inverse Reinforcement Learning (IRL)
+#### Inverse Reinforcement Learning (IRL)
 - [Inverse Reinforcement Learning (Part I)](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 
 #### Reinforcement Learning Course (Barto)
@@ -44,6 +44,8 @@
 
 #### AlphaZero
 - [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
+- [Connect4 RL using AlphaGO Zero Methods](https://github.com/Zeta36/connect4-alpha-zero) 
+
 
 #### GitHub
 - [Deep Learning Book Notation](https://github.com/goodfeli/dlbook_notation)
