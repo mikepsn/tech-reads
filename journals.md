@@ -1,5 +1,6 @@
 - [Top Journals for Computer Science and Electronics](http://www.guide2research.com/journals/)
 - [Top Journals for Machine Learning and Artificial Intelligence](http://www.guide2research.com/journals/machine-learning)
+- [Top Journals for Software Engineering and Programming](http://www.guide2research.com/journals/software-programming)
 - [SCImago Journal and Country Rank](http://www.scimagojr.com/journalrank.php?category=1702)
 
 #### AI Journals
