@@ -7,6 +7,7 @@ Interesting links in tech, python, software engineering, ai/ml etc.
 
 #### Artificial Intelligence
 - [Reinforcement Learning](https://github.com/mikepsn/tech-reads/blob/master/reinforcement-learning.md) 
+- [Sequence Learning](https://github.com/mikepsn/tech-reads/blob/master/sequence-learning.md)
 - [Monte-Carlo Tree Search](https://github.com/mikepsn/tech-reads/blob/master/mcts.md) 
 - [Neural Networks](https://github.com/mikepsn/tech-reads/blob/master/nn.md) 
 - [Evolutionary Strategies](https://github.com/mikepsn/tech-reads/blob/master/evolutionary-strategies.md)
