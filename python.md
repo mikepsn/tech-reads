@@ -1,4 +1,5 @@
 #### Python
+- [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 - [Real Python Tutorials](https://realpython.com/tutorials/)
 - [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/)
 
