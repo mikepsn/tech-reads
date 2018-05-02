@@ -1,3 +1,7 @@
+#### Emergent Futures Reinforcement Learning Tutorials
+- [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+- [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+
 #### (Deep) Reinforcement Learning 
 - [Write an AI to win at Pong from scratch with Reinforcement Learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
@@ -9,7 +13,10 @@
 - [Potential Based Reward Shaping Tutorial](http://www-users.cs.york.ac.uk/~devlin/presentations/pbrs-tut.pdf)
 - [What is the difference between off-policy and on-policy learning?](https://stats.stackexchange.com/questions/184657/what-is-the-difference-between-off-policy-and-on-policy-learning)
 - [RL 5: On-policy and off-policy algorithms](http://www.inf.ed.ac.uk/teaching/courses/rl/slides15/rl05.pdf)
-- [Hybrid Reward Architecture for Reinforcement Learning](https://arxiv.org/pdf/1706.04208.pdf) 
+- [Hybrid Reward Architecture for Reinforcement Learning](https://arxiv.org/pdf/1706.04208.pdf)
+
+#### Asynchronous Methods
+- [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
 
 #### Inverse Reinforcement Learning (IRL)
 - [Inverse Reinforcement Learning (Part I)](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
