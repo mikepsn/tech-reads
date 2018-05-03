@@ -6,6 +6,7 @@ Interesting links in tech, python, software engineering, ai/ml etc.
 - [Journals](https://github.com/mikepsn/tech-reads/blob/master/journals.md)
 
 #### Artificial Intelligence
+- [Behaviour Trees](https://github.com/mikepsn/tech-reads/blob/master/behaviour-trees.md) 
 - [Reinforcement Learning](https://github.com/mikepsn/tech-reads/blob/master/reinforcement-learning.md) 
 - [Sequence Learning](https://github.com/mikepsn/tech-reads/blob/master/sequence-learning.md)
 - [Monte-Carlo Tree Search](https://github.com/mikepsn/tech-reads/blob/master/mcts.md) 
