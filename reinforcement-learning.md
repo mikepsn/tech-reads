@@ -37,6 +37,9 @@
 - [Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research](https://d4mucfpksywv.cloudfront.net/research-covers/ingredients-for-robotics-research/technical-report.pdf)
 - [A Multi-Objective Deep Reinforcement Learning Framework](https://www.researchgate.net/publication/323654985_A_Multi-Objective_Deep_Reinforcement_Learning_Framework) 
 
+#### Actor-Critic Methods
+-[Actor-Critic Algorithms](https://papers.nips.cc/paper/1786-actor-critic-algorithms.pdf)
+
 #### Game AI
 - [Institutions Active in Technical Games Research](http://www.kmjn.org/game-rankings/)
 - [Game AI Book (Yannakakis and Togelius)](http://gameaibook.org/) 
