@@ -10,3 +10,6 @@
 #### Pandas
 - [Pandas: plot the values of a groupb on multiple columns](https://scentellegher.github.io/programming/2017/07/15/pandas-groupby-multiple-columns-plot.html)
 
+#### Courses
+- [Python for Entrepeneurs Course Demos](https://github.com/mikeckennedy/python-for-entrepreneurs-course-demos)
+
