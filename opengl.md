@@ -1,3 +1,3 @@
 - [glutPopWindow, glutPushWindow](https://www.opengl.org/resources/libraries/glut/spec3/node25.html)
 - [OpenGL bindings for bash](https://opensource.com/article/18/4/opengl-bindings-bash) 
-- [Rendering fast reflectionsin OpenGL](ftp://ftp.sgi.com/opengl/contrib/mjk/tips/Reflect.html)
+- [Rendering Fast Reflections in OpenGL](http://ftp.sgi.com/opengl/contrib/mjk/tips/Reflect.html)
