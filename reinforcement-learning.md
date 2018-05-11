@@ -2,6 +2,10 @@
 - [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
+### Rat Reinforcement Learning Blog Posts
+- [Reinforcement Learning and MDPs](https://oneraynyday.github.io/ml/2018/05/06/Reinforcement-Learning-MDPs/)
+- [Reinforcement Learning k-Armed Bandits](https://oneraynyday.github.io/ml/2018/05/03/Reinforcement-Learning-Bandit/)
+
 #### Multi-Agent Reinforcement Learning (MARL)
 - [MARL Papers](https://github.com/LantaoYu/MARL-Papers)
 
