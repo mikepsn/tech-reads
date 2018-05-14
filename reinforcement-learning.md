@@ -13,6 +13,7 @@
 - [MARL Papers](https://github.com/LantaoYu/MARL-Papers)
 
 #### (Deep) Reinforcement Learning 
+- [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 - [Write an AI to win at Pong from scratch with Reinforcement Learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
 - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 - [An Intro to Reinforcement Learning (with otters) -- Monica Dinculescu](https://meowni.ca/posts/rl-with-otters/)
