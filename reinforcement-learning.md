@@ -11,6 +11,7 @@
 
 #### Multi-Agent Reinforcement Learning (MARL)
 - [MARL Papers](https://github.com/LantaoYu/MARL-Papers)
+- [Multiagent Learning: Foundations and Recent Trends (Stefano Albrecht and Peter Stone) IJCAI 2017 Tutorial](http://www.cs.utexas.edu/~larg/ijcai17_tutorial/multiagent_learning.pdf)
 
 #### (Deep) Reinforcement Learning 
 - [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
