@@ -1,3 +1,8 @@
+#### Intel Nervana Reinforcement Learning Coach
+- [Reinforcement Learning Coach by Intel (Blog)](https://ai.intel.com/reinforcement-learning-coach-intel/)
+- [Nervana Reinforcement Learning Coach Documentation](http://coach.nervanasys.com/)
+- [Nervana Coach GitHub](https://github.com/NervanaSystems/coach)
+
 #### Andrew Ng's Deep Learning Course (Coursera)
 - [Tess Fernandez' Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 
