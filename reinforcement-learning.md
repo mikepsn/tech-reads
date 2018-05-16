@@ -68,6 +68,9 @@
 - [AlphaGo Zero: Learning from Scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 - [DeepMind and Blizzard open StarCraft II as an AI research environment](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/)
 
+#### Autonomy
+- [Shared Autonomy via Deep Reinforcement Learning](http://www.gitxiv.com/posts/WrTDfqRKEoWNrDKbh/shared-autonomy-via-deep-reinforcement-learning)
+
 
 #### Reddit
 - [MariFLow: Self-Driving Mario Kart w/ Recurrent Neural Network (Reddit)](https://www.reddit.com/r/artificial/comments/8e2tqz/mariflow_selfdriving_mario_kart_wrecurrent_neural/)
