@@ -15,6 +15,7 @@
 ### Rat Reinforcement Learning Blog Posts
 - [Reinforcement Learning and MDPs](https://oneraynyday.github.io/ml/2018/05/06/Reinforcement-Learning-MDPs/)
 - [Reinforcement Learning k-Armed Bandits](https://oneraynyday.github.io/ml/2018/05/03/Reinforcement-Learning-Bandit/)
+- [TF Jam — Shooting Hoops with Machine Learning](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32?linkId=54634097)
 
 #### Multi-Agent Reinforcement Learning (MARL)
 - [MARL Papers](https://github.com/LantaoYu/MARL-Papers)
