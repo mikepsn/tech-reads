@@ -18,6 +18,9 @@ Interesting links in tech, python, software engineering, ai/ml etc.
 - [OpenGL](https://github.com/mikepsn/tech-reads/blob/master/opengl.md)
 - [Augmented Reality](https://github.com/mikepsn/tech-reads/blob/master/augmented-reality.md) 
 
+#### Math Libraries
+- [Math Libraries](https://github.com/mikepsn/tech-reads/blob/master/math.md)
+
 #### Software Engineering
 
 #### Software Development
