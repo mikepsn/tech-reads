@@ -3,6 +3,9 @@
 - [Nervana Reinforcement Learning Coach Documentation](http://coach.nervanasys.com/)
 - [Nervana Coach GitHub](https://github.com/NervanaSystems/coach)
 
+### Introduction to Reinforcement Learning Tutorial (KDD 2018 London)
+- [Introduction to Reinforcement Learning](https://github.com/vruvora/reinforcement-learning-kdd/blob/master/README.md)
+
 #### Andrew Ng's Deep Learning Course (Coursera)
 - [Tess Fernandez' Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 
@@ -73,7 +76,22 @@
 - [Soccer and Machine Learning](https://www.uruit.com/blog/2018/02/16/soccer-and-machine-learning-tutorial/) 
 
 #### OpenAI
-- [OpenAI Roboschool](https://blog.openai.com/roboschool/)
+- [Roboschool](https://blog.openai.com/roboschool/)
+- [OpenAI Deep RL Baselines](https://github.com/openai/baselines)
+- [Reddit: Is it me or are OpenAI Baselines difficult to use?](https://www.reddit.com/r/MachineLearning/comments/7l23y8/d_is_it_me_or_can_openai_baselines_be_difficult/)
+- [OpenAI Gym (GitHub)](https://github.com/openai/gym) 
+- [OpenAI Gym (Docs)](https://gym.openai.com/docs/)
+- [OpenAI Gym Leaderboard](https://github.com/openai/gym/wiki/Leaderboard) 
+- [OpenAI Gym Lunar Lander v2](https://gym.openai.com/envs/LunarLander-v2/) 
+- [NeuralLander Using Keras](https://github.com/mightyroy/neurallander) 
+
+#### PyGame Learning Environment (PLE)
+- [PyGame Learning Environment (PLE)](https://pygame-learning-environment.readthedocs.io/en/latest/) 
+- [Gym-PLE: OpenAI Gym to PyGame Learning Environment](https://github.com/lusob/gym-ple) 
+- [
+
+#### TensorForce
+- [TensorForce](https://github.com/reinforceio/tensorforce) 
 
 #### Uber Engineering
 - [Accelerating Deep Neuroevolution: Train Atari in Hours on a Single Personal Computer](https://eng.uber.com/accelerated-neuroevolution/)
