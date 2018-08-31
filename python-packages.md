@@ -2,6 +2,9 @@
 ### Python
 - [Yoda: Terminal Personal Assistant](https://github.com/yoda-pa/yoda)
 
+### Libraries
+- [Box2D: 2D Physics Engine for Games](https://github.com/erincatto/Box2D) 
+- [PyBox2D Windows Wheel - Unofficial Python Binaries](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pybox2d) 
 
 ### Matlab w/out Python Equivalent
 - [flypath3d](http://www.wbint.pl/flypath3d/index.php)
