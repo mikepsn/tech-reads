@@ -6,13 +6,22 @@
 #### Andrew Ng's Deep Learning Course (Coursera)
 - [Tess Fernandez' Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
 
+#### Tile Coding
+- [Supervised Learning using Tile Coding](https://github.com/dquail/RLTileCoding)
+- [On-Policy Prediction with Approximation (Sutton & Barto Chapter 9)](http://incompleteideas.net/tiles/RLchapter9-aug2016.pdf)
+- [Sutton's Tile Coding Software v2.1](http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLtoolkit/tiles.html)
+= [Sutton's Tile Coding Software v3 (Beta)](http://incompleteideas.net/tiles/tiles3.html)
+- [Function Approximation via Tile Coding: Automating Parameter Choice. Sherstov and Stone 2005](http://web.cs.ucla.edu/~sherstov/pdf/sara05-tiling.pdf)
+- [CMAC / Tile Coding](https://en.wikipedia.org/wiki/Cerebellar_model_articulation_controller) 
+- [Reinforcement Learning for Robocup Soccer Keepaway](https://pdfs.semanticscholar.org/e0ff/2be5d9ab68957c78348c1e78b99549f5acfd.pdf) 
+
 #### Emergent Futures Reinforcement Learning Tutorials
 - [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Simple Reinforcement Learning with Tensorflow Part 4: Deep Q-Networks and Beyond](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df)
 - [Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and Deep Recurrent Q-Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc)
 - [Simple Reinforcement Learning with Tensorflow Part 8: Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
-### Rat Reinforcement Learning Blog Posts
+#### Rat Reinforcement Learning Blog Posts
 - [Reinforcement Learning and MDPs](https://oneraynyday.github.io/ml/2018/05/06/Reinforcement-Learning-MDPs/)
 - [Reinforcement Learning k-Armed Bandits](https://oneraynyday.github.io/ml/2018/05/03/Reinforcement-Learning-Bandit/)
 - [TF Jam — Shooting Hoops with Machine Learning](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32?linkId=54634097)
