@@ -84,11 +84,11 @@
 - [OpenAI Gym Leaderboard](https://github.com/openai/gym/wiki/Leaderboard) 
 - [OpenAI Gym Lunar Lander v2](https://gym.openai.com/envs/LunarLander-v2/) 
 - [NeuralLander Using Keras](https://github.com/mightyroy/neurallander) 
+- [Installing OpenAI Environments on Windows 10](https://blog.eckronsoftware.com/2017/07/02/installing-openai-environments-on-windows-10/)
 
 #### PyGame Learning Environment (PLE)
 - [PyGame Learning Environment (PLE)](https://pygame-learning-environment.readthedocs.io/en/latest/) 
 - [Gym-PLE: OpenAI Gym to PyGame Learning Environment](https://github.com/lusob/gym-ple) 
-- [
 
 #### TensorForce
 - [TensorForce](https://github.com/reinforceio/tensorforce) 
